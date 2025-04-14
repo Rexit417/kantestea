@@ -1,6 +1,9 @@
 [package]
 name = "kantestea"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+description = "A TEA Protocol OSS project"
+license = "MIT"
 
 [dependencies]
+# Add dependencies later as needed
